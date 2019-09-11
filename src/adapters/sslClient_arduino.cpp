@@ -1,6 +1,7 @@
 // Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
+#include <Arduino.h>
 #include <IPAddress.h>
 #include "sslClient_arduino.h"
 #include "azure_c_shared_utility/xlogging.h"
